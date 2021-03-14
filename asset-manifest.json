@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd8e67e3.chunk.css",
-    "main.js": "/static/js/main.64f66393.chunk.js",
-    "main.js.map": "/static/js/main.64f66393.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.98a398d5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.98a398d5.js.map",
+    "main.css": "/static/css/main.a3c7f76f.chunk.css",
+    "main.js": "/static/js/main.dda6cf60.chunk.js",
+    "main.js.map": "/static/js/main.dda6cf60.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e9e9110c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e9e9110c.js.map",
     "static/css/2.d5b8b7d2.chunk.css": "/static/css/2.d5b8b7d2.chunk.css",
     "static/js/2.41fd4f30.chunk.js": "/static/js/2.41fd4f30.chunk.js",
     "static/js/2.41fd4f30.chunk.js.map": "/static/js/2.41fd4f30.chunk.js.map",
@@ -12,13 +12,13 @@
     "static/js/3.2d9fb51f.chunk.js.map": "/static/js/3.2d9fb51f.chunk.js.map",
     "static/js/4.ac566496.chunk.js": "/static/js/4.ac566496.chunk.js",
     "static/js/4.ac566496.chunk.js.map": "/static/js/4.ac566496.chunk.js.map",
-    "static/js/5.1315166c.chunk.js": "/static/js/5.1315166c.chunk.js",
-    "static/js/5.1315166c.chunk.js.map": "/static/js/5.1315166c.chunk.js.map",
+    "static/js/5.e24f2295.chunk.js": "/static/js/5.e24f2295.chunk.js",
+    "static/js/5.e24f2295.chunk.js.map": "/static/js/5.e24f2295.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d5b8b7d2.chunk.css.map": "/static/css/2.d5b8b7d2.chunk.css.map",
-    "static/css/main.dd8e67e3.chunk.css.map": "/static/css/main.dd8e67e3.chunk.css.map",
+    "static/css/main.a3c7f76f.chunk.css.map": "/static/css/main.a3c7f76f.chunk.css.map",
     "static/js/2.41fd4f30.chunk.js.LICENSE.txt": "/static/js/2.41fd4f30.chunk.js.LICENSE.txt",
-    "static/media/wolves_scheme.css": "/static/media/background_wolves.82a4ad51.png",
+    "static/media/wolves_scheme.css": "/static/media/infoborder.2b88b1b9.svg",
     "static/media/stake.css": "/static/media/banner_stake.75cb3fbd.jpg",
     "static/media/bois_shadow.b0ae95a7.png": "/static/media/bois_shadow.b0ae95a7.png",
     "static/media/page1.css": "/static/media/page1_right_low.54627a76.jpg",
@@ -34,10 +34,10 @@
     "static/media/wolves_shadow.717f45ae.png": "/static/media/wolves_shadow.717f45ae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.98a398d5.js",
+    "static/js/runtime-main.e9e9110c.js",
     "static/css/2.d5b8b7d2.chunk.css",
     "static/js/2.41fd4f30.chunk.js",
-    "static/css/main.dd8e67e3.chunk.css",
-    "static/js/main.64f66393.chunk.js"
+    "static/css/main.a3c7f76f.chunk.css",
+    "static/js/main.dda6cf60.chunk.js"
   ]
 }

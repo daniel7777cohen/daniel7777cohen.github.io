@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c031701a.chunk.css",
+    "main.css": "/static/css/main.2d1bfee0.chunk.css",
     "main.js": "/static/js/main.f8516a3b.chunk.js",
     "main.js.map": "/static/js/main.f8516a3b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.85ddf431.js",
@@ -16,7 +16,7 @@
     "static/js/5.1315166c.chunk.js.map": "/static/js/5.1315166c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d5b8b7d2.chunk.css.map": "/static/css/2.d5b8b7d2.chunk.css.map",
-    "static/css/main.c031701a.chunk.css.map": "/static/css/main.c031701a.chunk.css.map",
+    "static/css/main.2d1bfee0.chunk.css.map": "/static/css/main.2d1bfee0.chunk.css.map",
     "static/js/2.41fd4f30.chunk.js.LICENSE.txt": "/static/js/2.41fd4f30.chunk.js.LICENSE.txt",
     "static/media/wolves_scheme.css": "/static/media/background_wolves.82a4ad51.png",
     "static/media/stake.css": "/static/media/banner_stake.75cb3fbd.jpg",
@@ -37,7 +37,7 @@
     "static/js/runtime-main.85ddf431.js",
     "static/css/2.d5b8b7d2.chunk.css",
     "static/js/2.41fd4f30.chunk.js",
-    "static/css/main.c031701a.chunk.css",
+    "static/css/main.2d1bfee0.chunk.css",
     "static/js/main.f8516a3b.chunk.js"
   ]
 }
